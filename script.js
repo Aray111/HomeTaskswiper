@@ -1,6 +1,6 @@
 new Swiper('.testimonials-swiper', {
     slidesPerView: 'auto',
-    spaceBetween: 24,
+    spaceBetween: 32,
     centeredSlides: true,
     loop: true,
 
